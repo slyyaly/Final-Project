@@ -22,7 +22,7 @@ li{font-weight: normal;}
 
 h2{ font-size: 40px; color:forestgreen; font-family: sans-serif}
 
-.common {background-color: lightsteelblue; border: 4px, solid, white; position: absolute;}
+.common {background-color: lightsteelblue; border: 4px, solid, white; position:fixed;}
 
 .header{ top: 5px;
         left: 5px;
