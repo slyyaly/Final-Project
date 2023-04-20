@@ -25,15 +25,15 @@ h2{ font-size: 40px; color:forestgreen; font-family: sans-serif}
 .common {background-color: lightsteelblue; border: 4px, solid, white; position:relative;}
 
 
-.header{ top: 2px;
+.header{ top: 5px;
         left: 5px;
         right: 5px;
         height: 50px}
 
-.rightmenu{top: 50px;
+.rightmenu{top: 114px;
         right: 5px;
-        width: 160px;
-        bottom: 450px;}
+        width: 100px;
+        bottom: 39px;}
 
 .footer{ bottom: 5px;
         left: 5px;
